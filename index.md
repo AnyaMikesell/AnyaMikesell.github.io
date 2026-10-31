@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "Home"
+title: "Anya Mikesell ePortfolio"
 ---
 
-# Anya Mikesell ePortfolio
+<center>
+   
+# Computer Science Capstone ePortfolio
 
-Welcome to my CS499 Computer Science Capstone ePortfolio
+## SNHU - CS499
+
+</center>
+
+---
+
+## Link to GitHub Repository
+View my GitHub Pages repository here: [GitHub-AnyaMikesell](https://github.com/AnyaMikesell/AnyaMikesell.github.io)
 
 ## Anticipated Sections
 
