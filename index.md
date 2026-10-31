@@ -4,11 +4,8 @@ title: "Anya Mikesell ePortfolio"
 ---
 
 <center>
-   
-# Computer Science Capstone ePortfolio
-
-## SNHU - CS499
-
+   <h1>Computer Science Capstone ePortfolio</h1>
+   <h2>SNHU - CS499</h2>
 </center>
 
 ---
